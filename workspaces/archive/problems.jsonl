@@ -219,7 +219,7 @@
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":219,"title":"Contains Duplicate II","titleSlug":"contains-duplicate-ii"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":220,"title":"Contains Duplicate III","titleSlug":"contains-duplicate-iii"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":221,"title":"Maximal Square","titleSlug":"maximal-square"}
-{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":222,"title":"Count Complete Tree Nodes","titleSlug":"count-complete-tree-nodes"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":222,"title":"Count Complete Tree Nodes","titleSlug":"count-complete-tree-nodes"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":223,"title":"Rectangle Area","titleSlug":"rectangle-area"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":224,"title":"Basic Calculator","titleSlug":"basic-calculator"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":225,"title":"Implement Stack using Queues","titleSlug":"implement-stack-using-queues"}
@@ -305,7 +305,7 @@
 {"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":305,"title":"Number of Islands II","titleSlug":"number-of-islands-ii"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":306,"title":"Additive Number","titleSlug":"additive-number"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":307,"title":"Range Sum Query - Mutable","titleSlug":"range-sum-query-mutable"}
-{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":308,"title":"Range Sum Query 2D - Mutable","titleSlug":"range-sum-query-2d-mutable"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":308,"title":"Range Sum Query 2D - Mutable","titleSlug":"range-sum-query-2d-mutable"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":309,"title":"Best Time to Buy and Sell Stock with Cooldown","titleSlug":"best-time-to-buy-and-sell-stock-with-cooldown"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":310,"title":"Minimum Height Trees","titleSlug":"minimum-height-trees"}
 {"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":311,"title":"Sparse Matrix Multiplication","titleSlug":"sparse-matrix-multiplication"}
@@ -593,7 +593,7 @@
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":593,"title":"Valid Square","titleSlug":"valid-square"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":594,"title":"Longest Harmonious Subsequence","titleSlug":"longest-harmonious-subsequence"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":595,"title":"Big Countries","titleSlug":"big-countries"}
-{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":596,"title":"Classes More Than 5 Students","titleSlug":"classes-more-than-5-students"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":596,"title":"Classes With at Least 5 Students","titleSlug":"classes-with-at-least-5-students"}
 {"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":597,"title":"Friend Requests I: Overall Acceptance Rate","titleSlug":"friend-requests-i-overall-acceptance-rate"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":598,"title":"Range Addition II","titleSlug":"range-addition-ii"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":599,"title":"Minimum Index Sum of Two Lists","titleSlug":"minimum-index-sum-of-two-lists"}
@@ -621,10 +621,10 @@
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":621,"title":"Task Scheduler","titleSlug":"task-scheduler"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":622,"title":"Design Circular Queue","titleSlug":"design-circular-queue"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":623,"title":"Add One Row to Tree","titleSlug":"add-one-row-to-tree"}
-{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":624,"title":"Maximum Distance in Arrays","titleSlug":"maximum-distance-in-arrays"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":624,"title":"Maximum Distance in Arrays","titleSlug":"maximum-distance-in-arrays"}
 {"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":625,"title":"Minimum Factorization","titleSlug":"minimum-factorization"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":626,"title":"Exchange Seats","titleSlug":"exchange-seats"}
-{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":627,"title":"Swap Salary","titleSlug":"swap-salary"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":627,"title":"Swap Sex of Employees","titleSlug":"swap-sex-of-employees"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":628,"title":"Maximum Product of Three Numbers","titleSlug":"maximum-product-of-three-numbers"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":629,"title":"K Inverse Pairs Array","titleSlug":"k-inverse-pairs-array"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":630,"title":"Course Schedule III","titleSlug":"course-schedule-iii"}
@@ -2405,7 +2405,7 @@
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":2405,"title":"Optimal Partition of String","titleSlug":"optimal-partition-of-string"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":2406,"title":"Divide Intervals Into Minimum Number of Groups","titleSlug":"divide-intervals-into-minimum-number-of-groups"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":2407,"title":"Longest Increasing Subsequence II","titleSlug":"longest-increasing-subsequence-ii"}
-{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":2408,"title":"Design SQL","titleSlug":"design-sql"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":2408,"title":"Design SQL","titleSlug":"design-sql"}
 {"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":2409,"title":"Count Days Spent Together","titleSlug":"count-days-spent-together"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":2410,"title":"Maximum Matching of Players With Trainers","titleSlug":"maximum-matching-of-players-with-trainers"}
 {"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":2411,"title":"Smallest Subarrays With Maximum Bitwise OR","titleSlug":"smallest-subarrays-with-maximum-bitwise-or"}
@@ -3250,3 +3250,797 @@
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3250,"title":"Find the Count of Monotonic Pairs I","titleSlug":"find-the-count-of-monotonic-pairs-i"}
 {"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3251,"title":"Find the Count of Monotonic Pairs II","titleSlug":"find-the-count-of-monotonic-pairs-ii"}
 {"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3252,"title":"Premier League Table Ranking II","titleSlug":"premier-league-table-ranking-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3253,"title":"Construct String with Minimum Cost (Easy)","titleSlug":"construct-string-with-minimum-cost-easy"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3254,"title":"Find the Power of K-Size Subarrays I","titleSlug":"find-the-power-of-k-size-subarrays-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3255,"title":"Find the Power of K-Size Subarrays II","titleSlug":"find-the-power-of-k-size-subarrays-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3256,"title":"Maximum Value Sum by Placing Three Rooks I","titleSlug":"maximum-value-sum-by-placing-three-rooks-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3257,"title":"Maximum Value Sum by Placing Three Rooks II","titleSlug":"maximum-value-sum-by-placing-three-rooks-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3258,"title":"Count Substrings That Satisfy K-Constraint I","titleSlug":"count-substrings-that-satisfy-k-constraint-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3259,"title":"Maximum Energy Boost From Two Drinks","titleSlug":"maximum-energy-boost-from-two-drinks"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3260,"title":"Find the Largest Palindrome Divisible by K","titleSlug":"find-the-largest-palindrome-divisible-by-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3261,"title":"Count Substrings That Satisfy K-Constraint II","titleSlug":"count-substrings-that-satisfy-k-constraint-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3262,"title":"Find Overlapping Shifts","titleSlug":"find-overlapping-shifts"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3263,"title":"Convert Doubly Linked List to Array I","titleSlug":"convert-doubly-linked-list-to-array-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3264,"title":"Final Array State After K Multiplication Operations I","titleSlug":"final-array-state-after-k-multiplication-operations-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3265,"title":"Count Almost Equal Pairs I","titleSlug":"count-almost-equal-pairs-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3266,"title":"Final Array State After K Multiplication Operations II","titleSlug":"final-array-state-after-k-multiplication-operations-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3267,"title":"Count Almost Equal Pairs II","titleSlug":"count-almost-equal-pairs-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3268,"title":"Find Overlapping Shifts II","titleSlug":"find-overlapping-shifts-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3269,"title":"Constructing Two Increasing Arrays","titleSlug":"constructing-two-increasing-arrays"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3270,"title":"Find the Key of the Numbers","titleSlug":"find-the-key-of-the-numbers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3271,"title":"Hash Divided String","titleSlug":"hash-divided-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3272,"title":"Find the Count of Good Integers","titleSlug":"find-the-count-of-good-integers"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3273,"title":"Minimum Amount of Damage Dealt to Bob","titleSlug":"minimum-amount-of-damage-dealt-to-bob"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3274,"title":"Check if Two Chessboard Squares Have the Same Color","titleSlug":"check-if-two-chessboard-squares-have-the-same-color"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3275,"title":"K-th Nearest Obstacle Queries","titleSlug":"k-th-nearest-obstacle-queries"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3276,"title":"Select Cells in Grid With Maximum Score","titleSlug":"select-cells-in-grid-with-maximum-score"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3277,"title":"Maximum XOR Score Subarray Queries","titleSlug":"maximum-xor-score-subarray-queries"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3278,"title":"Find Candidates for Data Scientist Position II","titleSlug":"find-candidates-for-data-scientist-position-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3279,"title":"Maximum Total Area Occupied by Pistons","titleSlug":"maximum-total-area-occupied-by-pistons"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3280,"title":"Convert Date to Binary","titleSlug":"convert-date-to-binary"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3281,"title":"Maximize Score of Numbers in Ranges","titleSlug":"maximize-score-of-numbers-in-ranges"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3282,"title":"Reach End of Array With Max Score","titleSlug":"reach-end-of-array-with-max-score"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3283,"title":"Maximum Number of Moves to Kill All Pawns","titleSlug":"maximum-number-of-moves-to-kill-all-pawns"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3284,"title":"Sum of Consecutive Subarrays","titleSlug":"sum-of-consecutive-subarrays"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3285,"title":"Find Indices of Stable Mountains","titleSlug":"find-indices-of-stable-mountains"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3286,"title":"Find a Safe Walk Through a Grid","titleSlug":"find-a-safe-walk-through-a-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3287,"title":"Find the Maximum Sequence Value of Array","titleSlug":"find-the-maximum-sequence-value-of-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3288,"title":"Length of the Longest Increasing Path","titleSlug":"length-of-the-longest-increasing-path"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3289,"title":"The Two Sneaky Numbers of Digitville","titleSlug":"the-two-sneaky-numbers-of-digitville"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3290,"title":"Maximum Multiplication Score","titleSlug":"maximum-multiplication-score"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3291,"title":"Minimum Number of Valid Strings to Form Target I","titleSlug":"minimum-number-of-valid-strings-to-form-target-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3292,"title":"Minimum Number of Valid Strings to Form Target II","titleSlug":"minimum-number-of-valid-strings-to-form-target-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3293,"title":"Calculate Product Final Price","titleSlug":"calculate-product-final-price"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3294,"title":"Convert Doubly Linked List to Array II","titleSlug":"convert-doubly-linked-list-to-array-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3295,"title":"Report Spam Message","titleSlug":"report-spam-message"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3296,"title":"Minimum Number of Seconds to Make Mountain Height Zero","titleSlug":"minimum-number-of-seconds-to-make-mountain-height-zero"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3297,"title":"Count Substrings That Can Be Rearranged to Contain a String I","titleSlug":"count-substrings-that-can-be-rearranged-to-contain-a-string-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3298,"title":"Count Substrings That Can Be Rearranged to Contain a String II","titleSlug":"count-substrings-that-can-be-rearranged-to-contain-a-string-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3299,"title":"Sum of Consecutive Subsequences","titleSlug":"sum-of-consecutive-subsequences"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3300,"title":"Minimum Element After Replacement With Digit Sum","titleSlug":"minimum-element-after-replacement-with-digit-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3301,"title":"Maximize the Total Height of Unique Towers","titleSlug":"maximize-the-total-height-of-unique-towers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3302,"title":"Find the Lexicographically Smallest Valid Sequence","titleSlug":"find-the-lexicographically-smallest-valid-sequence"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3303,"title":"Find the Occurrence of First Almost Equal Substring","titleSlug":"find-the-occurrence-of-first-almost-equal-substring"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3304,"title":"Find the K-th Character in String Game I","titleSlug":"find-the-k-th-character-in-string-game-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3305,"title":"Count of Substrings Containing Every Vowel and K Consonants I","titleSlug":"count-of-substrings-containing-every-vowel-and-k-consonants-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3306,"title":"Count of Substrings Containing Every Vowel and K Consonants II","titleSlug":"count-of-substrings-containing-every-vowel-and-k-consonants-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3307,"title":"Find the K-th Character in String Game II","titleSlug":"find-the-k-th-character-in-string-game-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3308,"title":"Find Top Performing Driver","titleSlug":"find-top-performing-driver"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3309,"title":"Maximum Possible Number by Binary Concatenation","titleSlug":"maximum-possible-number-by-binary-concatenation"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3310,"title":"Remove Methods From Project","titleSlug":"remove-methods-from-project"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3311,"title":"Construct 2D Grid Matching Graph Layout","titleSlug":"construct-2d-grid-matching-graph-layout"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3312,"title":"Sorted GCD Pair Queries","titleSlug":"sorted-gcd-pair-queries"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3313,"title":"Find the Last Marked Nodes in Tree","titleSlug":"find-the-last-marked-nodes-in-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3314,"title":"Construct the Minimum Bitwise Array I","titleSlug":"construct-the-minimum-bitwise-array-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3315,"title":"Construct the Minimum Bitwise Array II","titleSlug":"construct-the-minimum-bitwise-array-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3316,"title":"Find Maximum Removals From Source String","titleSlug":"find-maximum-removals-from-source-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3317,"title":"Find the Number of Possible Ways for an Event","titleSlug":"find-the-number-of-possible-ways-for-an-event"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3318,"title":"Find X-Sum of All K-Long Subarrays I","titleSlug":"find-x-sum-of-all-k-long-subarrays-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3319,"title":"K-th Largest Perfect Subtree Size in Binary Tree","titleSlug":"k-th-largest-perfect-subtree-size-in-binary-tree"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3320,"title":"Count The Number of Winning Sequences","titleSlug":"count-the-number-of-winning-sequences"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3321,"title":"Find X-Sum of All K-Long Subarrays II","titleSlug":"find-x-sum-of-all-k-long-subarrays-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3322,"title":"Premier League Table Ranking III","titleSlug":"premier-league-table-ranking-iii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3323,"title":"Minimize Connected Groups by Inserting Interval","titleSlug":"minimize-connected-groups-by-inserting-interval"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3324,"title":"Find the Sequence of Strings Appeared on the Screen","titleSlug":"find-the-sequence-of-strings-appeared-on-the-screen"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3325,"title":"Count Substrings With K-Frequency Characters I","titleSlug":"count-substrings-with-k-frequency-characters-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3326,"title":"Minimum Division Operations to Make Array Non Decreasing","titleSlug":"minimum-division-operations-to-make-array-non-decreasing"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3327,"title":"Check if DFS Strings Are Palindromes","titleSlug":"check-if-dfs-strings-are-palindromes"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3328,"title":"Find Cities in Each State II","titleSlug":"find-cities-in-each-state-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3329,"title":"Count Substrings With K-Frequency Characters II","titleSlug":"count-substrings-with-k-frequency-characters-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3330,"title":"Find the Original Typed String I","titleSlug":"find-the-original-typed-string-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3331,"title":"Find Subtree Sizes After Changes","titleSlug":"find-subtree-sizes-after-changes"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3332,"title":"Maximum Points Tourist Can Earn","titleSlug":"maximum-points-tourist-can-earn"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3333,"title":"Find the Original Typed String II","titleSlug":"find-the-original-typed-string-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3334,"title":"Find the Maximum Factor Score of Array","titleSlug":"find-the-maximum-factor-score-of-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3335,"title":"Total Characters in String After Transformations I","titleSlug":"total-characters-in-string-after-transformations-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3336,"title":"Find the Number of Subsequences With Equal GCD","titleSlug":"find-the-number-of-subsequences-with-equal-gcd"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3337,"title":"Total Characters in String After Transformations II","titleSlug":"total-characters-in-string-after-transformations-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3338,"title":"Second Highest Salary II","titleSlug":"second-highest-salary-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3339,"title":"Find the Number of K-Even Arrays","titleSlug":"find-the-number-of-k-even-arrays"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3340,"title":"Check Balanced String","titleSlug":"check-balanced-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3341,"title":"Find Minimum Time to Reach Last Room I","titleSlug":"find-minimum-time-to-reach-last-room-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3342,"title":"Find Minimum Time to Reach Last Room II","titleSlug":"find-minimum-time-to-reach-last-room-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3343,"title":"Count Number of Balanced Permutations","titleSlug":"count-number-of-balanced-permutations"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3344,"title":"Maximum Sized Array","titleSlug":"maximum-sized-array"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3345,"title":"Smallest Divisible Digit Product I","titleSlug":"smallest-divisible-digit-product-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3346,"title":"Maximum Frequency of an Element After Performing Operations I","titleSlug":"maximum-frequency-of-an-element-after-performing-operations-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3347,"title":"Maximum Frequency of an Element After Performing Operations II","titleSlug":"maximum-frequency-of-an-element-after-performing-operations-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3348,"title":"Smallest Divisible Digit Product II","titleSlug":"smallest-divisible-digit-product-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3349,"title":"Adjacent Increasing Subarrays Detection I","titleSlug":"adjacent-increasing-subarrays-detection-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3350,"title":"Adjacent Increasing Subarrays Detection II","titleSlug":"adjacent-increasing-subarrays-detection-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3351,"title":"Sum of Good Subsequences","titleSlug":"sum-of-good-subsequences"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3352,"title":"Count K-Reducible Numbers Less Than N","titleSlug":"count-k-reducible-numbers-less-than-n"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3353,"title":"Minimum Total Operations","titleSlug":"minimum-total-operations"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3354,"title":"Make Array Elements Equal to Zero","titleSlug":"make-array-elements-equal-to-zero"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3355,"title":"Zero Array Transformation I","titleSlug":"zero-array-transformation-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3356,"title":"Zero Array Transformation II","titleSlug":"zero-array-transformation-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3357,"title":"Minimize the Maximum Adjacent Element Difference","titleSlug":"minimize-the-maximum-adjacent-element-difference"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3358,"title":"Books with NULL Ratings","titleSlug":"books-with-null-ratings"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3359,"title":"Find Sorted Submatrices With Maximum Element at Most K","titleSlug":"find-sorted-submatrices-with-maximum-element-at-most-k"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3360,"title":"Stone Removal Game","titleSlug":"stone-removal-game"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3361,"title":"Shift Distance Between Two Strings","titleSlug":"shift-distance-between-two-strings"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3362,"title":"Zero Array Transformation III","titleSlug":"zero-array-transformation-iii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3363,"title":"Find the Maximum Number of Fruits Collected","titleSlug":"find-the-maximum-number-of-fruits-collected"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3364,"title":"Minimum Positive Sum Subarray","titleSlug":"minimum-positive-sum-subarray"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3365,"title":"Rearrange K Substrings to Form Target String","titleSlug":"rearrange-k-substrings-to-form-target-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3366,"title":"Minimum Array Sum","titleSlug":"minimum-array-sum"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3367,"title":"Maximize Sum of Weights after Edge Removals","titleSlug":"maximize-sum-of-weights-after-edge-removals"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3368,"title":"First Letter Capitalization","titleSlug":"first-letter-capitalization"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3369,"title":"Design an Array Statistics Tracker","titleSlug":"design-an-array-statistics-tracker"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3370,"title":"Smallest Number With All Set Bits","titleSlug":"smallest-number-with-all-set-bits"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3371,"title":"Identify the Largest Outlier in an Array","titleSlug":"identify-the-largest-outlier-in-an-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3372,"title":"Maximize the Number of Target Nodes After Connecting Trees I","titleSlug":"maximize-the-number-of-target-nodes-after-connecting-trees-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3373,"title":"Maximize the Number of Target Nodes After Connecting Trees II","titleSlug":"maximize-the-number-of-target-nodes-after-connecting-trees-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3374,"title":"First Letter Capitalization II","titleSlug":"first-letter-capitalization-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3375,"title":"Minimum Operations to Make Array Values Equal to K","titleSlug":"minimum-operations-to-make-array-values-equal-to-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3376,"title":"Minimum Time to Break Locks I","titleSlug":"minimum-time-to-break-locks-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3377,"title":"Digit Operations to Make Two Integers Equal","titleSlug":"digit-operations-to-make-two-integers-equal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3378,"title":"Count Connected Components in LCM Graph","titleSlug":"count-connected-components-in-lcm-graph"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3379,"title":"Transformed Array","titleSlug":"transformed-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3380,"title":"Maximum Area Rectangle With Point Constraints I","titleSlug":"maximum-area-rectangle-with-point-constraints-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3381,"title":"Maximum Subarray Sum With Length Divisible by K","titleSlug":"maximum-subarray-sum-with-length-divisible-by-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3382,"title":"Maximum Area Rectangle With Point Constraints II","titleSlug":"maximum-area-rectangle-with-point-constraints-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3383,"title":"Minimum Runes to Add to Cast Spell","titleSlug":"minimum-runes-to-add-to-cast-spell"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3384,"title":"Team Dominance by Pass Success","titleSlug":"team-dominance-by-pass-success"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3385,"title":"Minimum Time to Break Locks II","titleSlug":"minimum-time-to-break-locks-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3386,"title":"Button with Longest Push Time","titleSlug":"button-with-longest-push-time"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3387,"title":"Maximize Amount After Two Days of Conversions","titleSlug":"maximize-amount-after-two-days-of-conversions"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3388,"title":"Count Beautiful Splits in an Array","titleSlug":"count-beautiful-splits-in-an-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3389,"title":"Minimum Operations to Make Character Frequencies Equal","titleSlug":"minimum-operations-to-make-character-frequencies-equal"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3390,"title":"Longest Team Pass Streak","titleSlug":"longest-team-pass-streak"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3391,"title":"Design a 3D Binary Matrix with Efficient Layer Tracking","titleSlug":"design-a-3d-binary-matrix-with-efficient-layer-tracking"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3392,"title":"Count Subarrays of Length Three With a Condition","titleSlug":"count-subarrays-of-length-three-with-a-condition"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3393,"title":"Count Paths With the Given XOR Value","titleSlug":"count-paths-with-the-given-xor-value"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3394,"title":"Check if Grid can be Cut into Sections","titleSlug":"check-if-grid-can-be-cut-into-sections"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3395,"title":"Subsequences with a Unique Middle Mode I","titleSlug":"subsequences-with-a-unique-middle-mode-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3396,"title":"Minimum Number of Operations to Make Elements in Array Distinct","titleSlug":"minimum-number-of-operations-to-make-elements-in-array-distinct"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3397,"title":"Maximum Number of Distinct Elements After Operations","titleSlug":"maximum-number-of-distinct-elements-after-operations"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3398,"title":"Smallest Substring With Identical Characters I","titleSlug":"smallest-substring-with-identical-characters-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3399,"title":"Smallest Substring With Identical Characters II","titleSlug":"smallest-substring-with-identical-characters-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3400,"title":"Maximum Number of Matching Indices After Right Shifts","titleSlug":"maximum-number-of-matching-indices-after-right-shifts"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3401,"title":"Find Circular Gift Exchange Chains","titleSlug":"find-circular-gift-exchange-chains"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3402,"title":"Minimum Operations to Make Columns Strictly Increasing","titleSlug":"minimum-operations-to-make-columns-strictly-increasing"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3403,"title":"Find the Lexicographically Largest String From the Box I","titleSlug":"find-the-lexicographically-largest-string-from-the-box-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3404,"title":"Count Special Subsequences","titleSlug":"count-special-subsequences"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3405,"title":"Count the Number of Arrays with K Matching Adjacent Elements","titleSlug":"count-the-number-of-arrays-with-k-matching-adjacent-elements"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3406,"title":"Find the Lexicographically Largest String From the Box II","titleSlug":"find-the-lexicographically-largest-string-from-the-box-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3407,"title":"Substring Matching Pattern","titleSlug":"substring-matching-pattern"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3408,"title":"Design Task Manager","titleSlug":"design-task-manager"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3409,"title":"Longest Subsequence With Decreasing Adjacent Difference","titleSlug":"longest-subsequence-with-decreasing-adjacent-difference"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3410,"title":"Maximize Subarray Sum After Removing All Occurrences of One Element","titleSlug":"maximize-subarray-sum-after-removing-all-occurrences-of-one-element"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3411,"title":"Maximum Subarray With Equal Products","titleSlug":"maximum-subarray-with-equal-products"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3412,"title":"Find Mirror Score of a String","titleSlug":"find-mirror-score-of-a-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3413,"title":"Maximum Coins From K Consecutive Bags","titleSlug":"maximum-coins-from-k-consecutive-bags"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3414,"title":"Maximum Score of Non-overlapping Intervals","titleSlug":"maximum-score-of-non-overlapping-intervals"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3415,"title":"Find Products with Three Consecutive Digits","titleSlug":"find-products-with-three-consecutive-digits"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3416,"title":"Subsequences with a Unique Middle Mode II","titleSlug":"subsequences-with-a-unique-middle-mode-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3417,"title":"Zigzag Grid Traversal With Skip","titleSlug":"zigzag-grid-traversal-with-skip"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3418,"title":"Maximum Amount of Money Robot Can Earn","titleSlug":"maximum-amount-of-money-robot-can-earn"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3419,"title":"Minimize the Maximum Edge Weight of Graph","titleSlug":"minimize-the-maximum-edge-weight-of-graph"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3420,"title":"Count Non-Decreasing Subarrays After K Operations","titleSlug":"count-non-decreasing-subarrays-after-k-operations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3421,"title":"Find Students Who Improved","titleSlug":"find-students-who-improved"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3422,"title":"Minimum Operations to Make Subarray Elements Equal","titleSlug":"minimum-operations-to-make-subarray-elements-equal"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3423,"title":"Maximum Difference Between Adjacent Elements in a Circular Array","titleSlug":"maximum-difference-between-adjacent-elements-in-a-circular-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3424,"title":"Minimum Cost to Make Arrays Identical","titleSlug":"minimum-cost-to-make-arrays-identical"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3425,"title":"Longest Special Path","titleSlug":"longest-special-path"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3426,"title":"Manhattan Distances of All Arrangements of Pieces","titleSlug":"manhattan-distances-of-all-arrangements-of-pieces"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3427,"title":"Sum of Variable Length Subarrays","titleSlug":"sum-of-variable-length-subarrays"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3428,"title":"Maximum and Minimum Sums of at Most Size K Subsequences","titleSlug":"maximum-and-minimum-sums-of-at-most-size-k-subsequences"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3429,"title":"Paint House IV","titleSlug":"paint-house-iv"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3430,"title":"Maximum and Minimum Sums of at Most Size K Subarrays","titleSlug":"maximum-and-minimum-sums-of-at-most-size-k-subarrays"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3431,"title":"Minimum Unlocked Indices to Sort Nums","titleSlug":"minimum-unlocked-indices-to-sort-nums"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3432,"title":"Count Partitions with Even Sum Difference","titleSlug":"count-partitions-with-even-sum-difference"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3433,"title":"Count Mentions Per User","titleSlug":"count-mentions-per-user"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3434,"title":"Maximum Frequency After Subarray Operation","titleSlug":"maximum-frequency-after-subarray-operation"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3435,"title":"Frequencies of Shortest Supersequences","titleSlug":"frequencies-of-shortest-supersequences"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3436,"title":"Find Valid Emails","titleSlug":"find-valid-emails"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3437,"title":"Permutations III","titleSlug":"permutations-iii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3438,"title":"Find Valid Pair of Adjacent Digits in String","titleSlug":"find-valid-pair-of-adjacent-digits-in-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3439,"title":"Reschedule Meetings for Maximum Free Time I","titleSlug":"reschedule-meetings-for-maximum-free-time-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3440,"title":"Reschedule Meetings for Maximum Free Time II","titleSlug":"reschedule-meetings-for-maximum-free-time-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3441,"title":"Minimum Cost Good Caption","titleSlug":"minimum-cost-good-caption"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3442,"title":"Maximum Difference Between Even and Odd Frequency I","titleSlug":"maximum-difference-between-even-and-odd-frequency-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3443,"title":"Maximum Manhattan Distance After K Changes","titleSlug":"maximum-manhattan-distance-after-k-changes"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3444,"title":"Minimum Increments for Target Multiples in an Array","titleSlug":"minimum-increments-for-target-multiples-in-an-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3445,"title":"Maximum Difference Between Even and Odd Frequency II","titleSlug":"maximum-difference-between-even-and-odd-frequency-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3446,"title":"Sort Matrix by Diagonals","titleSlug":"sort-matrix-by-diagonals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3447,"title":"Assign Elements to Groups with Constraints","titleSlug":"assign-elements-to-groups-with-constraints"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3448,"title":"Count Substrings Divisible By Last Digit","titleSlug":"count-substrings-divisible-by-last-digit"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3449,"title":"Maximize the Minimum Game Score","titleSlug":"maximize-the-minimum-game-score"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3450,"title":"Maximum Students on a Single Bench","titleSlug":"maximum-students-on-a-single-bench"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3451,"title":"Find Invalid IP Addresses","titleSlug":"find-invalid-ip-addresses"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3452,"title":"Sum of Good Numbers","titleSlug":"sum-of-good-numbers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3453,"title":"Separate Squares I","titleSlug":"separate-squares-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3454,"title":"Separate Squares II","titleSlug":"separate-squares-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3455,"title":"Shortest Matching Substring","titleSlug":"shortest-matching-substring"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3456,"title":"Find Special Substring of Length K","titleSlug":"find-special-substring-of-length-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3457,"title":"Eat Pizzas!","titleSlug":"eat-pizzas"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3458,"title":"Select K Disjoint Special Substrings","titleSlug":"select-k-disjoint-special-substrings"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3459,"title":"Length of Longest V-Shaped Diagonal Segment","titleSlug":"length-of-longest-v-shaped-diagonal-segment"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3460,"title":"Longest Common Prefix After at Most One Removal","titleSlug":"longest-common-prefix-after-at-most-one-removal"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3461,"title":"Check If Digits Are Equal in String After Operations I","titleSlug":"check-if-digits-are-equal-in-string-after-operations-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3462,"title":"Maximum Sum With at Most K Elements","titleSlug":"maximum-sum-with-at-most-k-elements"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3463,"title":"Check If Digits Are Equal in String After Operations II","titleSlug":"check-if-digits-are-equal-in-string-after-operations-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3464,"title":"Maximize the Distance Between Points on a Square","titleSlug":"maximize-the-distance-between-points-on-a-square"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3465,"title":"Find Products with Valid Serial Numbers","titleSlug":"find-products-with-valid-serial-numbers"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3466,"title":"Maximum Coin Collection","titleSlug":"maximum-coin-collection"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3467,"title":"Transform Array by Parity","titleSlug":"transform-array-by-parity"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3468,"title":"Find the Number of Copy Arrays","titleSlug":"find-the-number-of-copy-arrays"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3469,"title":"Find Minimum Cost to Remove Array Elements","titleSlug":"find-minimum-cost-to-remove-array-elements"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3470,"title":"Permutations IV","titleSlug":"permutations-iv"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3471,"title":"Find the Largest Almost Missing Integer","titleSlug":"find-the-largest-almost-missing-integer"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3472,"title":"Longest Palindromic Subsequence After at Most K Operations","titleSlug":"longest-palindromic-subsequence-after-at-most-k-operations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3473,"title":"Sum of K Subarrays With Length at Least M","titleSlug":"sum-of-k-subarrays-with-length-at-least-m"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3474,"title":"Lexicographically Smallest Generated String","titleSlug":"lexicographically-smallest-generated-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3475,"title":"DNA Pattern Recognition","titleSlug":"dna-pattern-recognition"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3476,"title":"Maximize Profit from Task Assignment","titleSlug":"maximize-profit-from-task-assignment"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3477,"title":"Fruits Into Baskets II","titleSlug":"fruits-into-baskets-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3478,"title":"Choose K Elements With Maximum Sum","titleSlug":"choose-k-elements-with-maximum-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3479,"title":"Fruits Into Baskets III","titleSlug":"fruits-into-baskets-iii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3480,"title":"Maximize Subarrays After Removing One Conflicting Pair","titleSlug":"maximize-subarrays-after-removing-one-conflicting-pair"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3481,"title":"Apply Substitutions","titleSlug":"apply-substitutions"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3482,"title":"Analyze Organization Hierarchy","titleSlug":"analyze-organization-hierarchy"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3483,"title":"Unique 3-Digit Even Numbers","titleSlug":"unique-3-digit-even-numbers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3484,"title":"Design Spreadsheet","titleSlug":"design-spreadsheet"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3485,"title":"Longest Common Prefix of K Strings After Removal","titleSlug":"longest-common-prefix-of-k-strings-after-removal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3486,"title":"Longest Special Path II","titleSlug":"longest-special-path-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3487,"title":"Maximum Unique Subarray Sum After Deletion","titleSlug":"maximum-unique-subarray-sum-after-deletion"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3488,"title":"Closest Equal Element Queries","titleSlug":"closest-equal-element-queries"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3489,"title":"Zero Array Transformation IV","titleSlug":"zero-array-transformation-iv"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3490,"title":"Count Beautiful Numbers","titleSlug":"count-beautiful-numbers"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3491,"title":"Phone Number Prefix","titleSlug":"phone-number-prefix"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3492,"title":"Maximum Containers on a Ship","titleSlug":"maximum-containers-on-a-ship"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3493,"title":"Properties Graph","titleSlug":"properties-graph"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3494,"title":"Find the Minimum Amount of Time to Brew Potions","titleSlug":"find-the-minimum-amount-of-time-to-brew-potions"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3495,"title":"Minimum Operations to Make Array Elements Zero","titleSlug":"minimum-operations-to-make-array-elements-zero"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3496,"title":"Maximize Score After Pair Deletions","titleSlug":"maximize-score-after-pair-deletions"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3497,"title":"Analyze Subscription Conversion","titleSlug":"analyze-subscription-conversion"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3498,"title":"Reverse Degree of a String","titleSlug":"reverse-degree-of-a-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3499,"title":"Maximize Active Section with Trade I","titleSlug":"maximize-active-section-with-trade-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3500,"title":"Minimum Cost to Divide Array Into Subarrays","titleSlug":"minimum-cost-to-divide-array-into-subarrays"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3501,"title":"Maximize Active Section with Trade II","titleSlug":"maximize-active-section-with-trade-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3502,"title":"Minimum Cost to Reach Every Position","titleSlug":"minimum-cost-to-reach-every-position"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3503,"title":"Longest Palindrome After Substring Concatenation I","titleSlug":"longest-palindrome-after-substring-concatenation-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3504,"title":"Longest Palindrome After Substring Concatenation II","titleSlug":"longest-palindrome-after-substring-concatenation-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3505,"title":"Minimum Operations to Make Elements Within K Subarrays Equal","titleSlug":"minimum-operations-to-make-elements-within-k-subarrays-equal"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3506,"title":"Find Time Required to Eliminate Bacterial Strains","titleSlug":"find-time-required-to-eliminate-bacterial-strains"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3507,"title":"Minimum Pair Removal to Sort Array I","titleSlug":"minimum-pair-removal-to-sort-array-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3508,"title":"Implement Router","titleSlug":"implement-router"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3509,"title":"Maximum Product of Subsequences With an Alternating Sum Equal to K","titleSlug":"maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3510,"title":"Minimum Pair Removal to Sort Array II","titleSlug":"minimum-pair-removal-to-sort-array-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3511,"title":"Make a Positive Array","titleSlug":"make-a-positive-array"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3512,"title":"Minimum Operations to Make Array Sum Divisible by K","titleSlug":"minimum-operations-to-make-array-sum-divisible-by-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3513,"title":"Number of Unique XOR Triplets I","titleSlug":"number-of-unique-xor-triplets-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3514,"title":"Number of Unique XOR Triplets II","titleSlug":"number-of-unique-xor-triplets-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3515,"title":"Shortest Path in a Weighted Tree","titleSlug":"shortest-path-in-a-weighted-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3516,"title":"Find Closest Person","titleSlug":"find-closest-person"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3517,"title":"Smallest Palindromic Rearrangement I","titleSlug":"smallest-palindromic-rearrangement-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3518,"title":"Smallest Palindromic Rearrangement II","titleSlug":"smallest-palindromic-rearrangement-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3519,"title":"Count Numbers with Non-Decreasing Digits","titleSlug":"count-numbers-with-non-decreasing-digits"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3520,"title":"Minimum Threshold for Inversion Pairs Count","titleSlug":"minimum-threshold-for-inversion-pairs-count"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3521,"title":"Find Product Recommendation Pairs","titleSlug":"find-product-recommendation-pairs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3522,"title":"Calculate Score After Performing Instructions","titleSlug":"calculate-score-after-performing-instructions"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3523,"title":"Make Array Non-decreasing","titleSlug":"make-array-non-decreasing"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3524,"title":"Find X Value of Array I","titleSlug":"find-x-value-of-array-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3525,"title":"Find X Value of Array II","titleSlug":"find-x-value-of-array-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3526,"title":"Range XOR Queries with Subarray Reversals","titleSlug":"range-xor-queries-with-subarray-reversals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3527,"title":"Find the Most Common Response","titleSlug":"find-the-most-common-response"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3528,"title":"Unit Conversion I","titleSlug":"unit-conversion-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3529,"title":"Count Cells in Overlapping Horizontal and Vertical Substrings","titleSlug":"count-cells-in-overlapping-horizontal-and-vertical-substrings"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3530,"title":"Maximum Profit from Valid Topological Order in DAG","titleSlug":"maximum-profit-from-valid-topological-order-in-dag"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3531,"title":"Count Covered Buildings","titleSlug":"count-covered-buildings"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3532,"title":"Path Existence Queries in a Graph I","titleSlug":"path-existence-queries-in-a-graph-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3533,"title":"Concatenated Divisibility","titleSlug":"concatenated-divisibility"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3534,"title":"Path Existence Queries in a Graph II","titleSlug":"path-existence-queries-in-a-graph-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3535,"title":"Unit Conversion II","titleSlug":"unit-conversion-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3536,"title":"Maximum Product of Two Digits","titleSlug":"maximum-product-of-two-digits"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3537,"title":"Fill a Special Grid","titleSlug":"fill-a-special-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3538,"title":"Merge Operations for Minimum Travel Time","titleSlug":"merge-operations-for-minimum-travel-time"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3539,"title":"Find Sum of Array Product of Magical Sequences","titleSlug":"find-sum-of-array-product-of-magical-sequences"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3540,"title":"Minimum Time to Visit All Houses","titleSlug":"minimum-time-to-visit-all-houses"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3541,"title":"Find Most Frequent Vowel and Consonant","titleSlug":"find-most-frequent-vowel-and-consonant"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3542,"title":"Minimum Operations to Convert All Elements to Zero","titleSlug":"minimum-operations-to-convert-all-elements-to-zero"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3543,"title":"Maximum Weighted K-Edge Path","titleSlug":"maximum-weighted-k-edge-path"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3544,"title":"Subtree Inversion Sum","titleSlug":"subtree-inversion-sum"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3545,"title":"Minimum Deletions for At Most K Distinct Characters","titleSlug":"minimum-deletions-for-at-most-k-distinct-characters"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3546,"title":"Equal Sum Grid Partition I","titleSlug":"equal-sum-grid-partition-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3547,"title":"Maximum Sum of Edge Values in a Graph","titleSlug":"maximum-sum-of-edge-values-in-a-graph"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3548,"title":"Equal Sum Grid Partition II","titleSlug":"equal-sum-grid-partition-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3549,"title":"Multiply Two Polynomials","titleSlug":"multiply-two-polynomials"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3550,"title":"Smallest Index With Digit Sum Equal to Index","titleSlug":"smallest-index-with-digit-sum-equal-to-index"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3551,"title":"Minimum Swaps to Sort by Digit Sum","titleSlug":"minimum-swaps-to-sort-by-digit-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3552,"title":"Grid Teleportation Traversal","titleSlug":"grid-teleportation-traversal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3553,"title":"Minimum Weighted Subgraph With the Required Paths II","titleSlug":"minimum-weighted-subgraph-with-the-required-paths-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3554,"title":"Find Category Recommendation Pairs","titleSlug":"find-category-recommendation-pairs"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3555,"title":"Smallest Subarray to Sort in Every Sliding Window","titleSlug":"smallest-subarray-to-sort-in-every-sliding-window"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3556,"title":"Sum of Largest Prime Substrings","titleSlug":"sum-of-largest-prime-substrings"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3557,"title":"Find Maximum Number of Non Intersecting Substrings","titleSlug":"find-maximum-number-of-non-intersecting-substrings"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3558,"title":"Number of Ways to Assign Edge Weights I","titleSlug":"number-of-ways-to-assign-edge-weights-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3559,"title":"Number of Ways to Assign Edge Weights II","titleSlug":"number-of-ways-to-assign-edge-weights-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3560,"title":"Find Minimum Log Transportation Cost","titleSlug":"find-minimum-log-transportation-cost"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3561,"title":"Resulting String After Adjacent Removals","titleSlug":"resulting-string-after-adjacent-removals"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3562,"title":"Maximum Profit from Trading Stocks with Discounts","titleSlug":"maximum-profit-from-trading-stocks-with-discounts"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3563,"title":"Lexicographically Smallest String After Adjacent Removals","titleSlug":"lexicographically-smallest-string-after-adjacent-removals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3564,"title":"Seasonal Sales Analysis","titleSlug":"seasonal-sales-analysis"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3565,"title":"Sequential Grid Path Cover","titleSlug":"sequential-grid-path-cover"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3566,"title":"Partition Array into Two Equal Product Subsets","titleSlug":"partition-array-into-two-equal-product-subsets"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3567,"title":"Minimum Absolute Difference in Sliding Submatrix","titleSlug":"minimum-absolute-difference-in-sliding-submatrix"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3568,"title":"Minimum Moves to Clean the Classroom","titleSlug":"minimum-moves-to-clean-the-classroom"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3569,"title":"Maximize Count of Distinct Primes After Split","titleSlug":"maximize-count-of-distinct-primes-after-split"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3570,"title":"Find Books with No Available Copies","titleSlug":"find-books-with-no-available-copies"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3571,"title":"Find the Shortest Superstring II","titleSlug":"find-the-shortest-superstring-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3572,"title":"Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values","titleSlug":"maximize-ysum-by-picking-a-triplet-of-distinct-xvalues"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3573,"title":"Best Time to Buy and Sell Stock V","titleSlug":"best-time-to-buy-and-sell-stock-v"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3574,"title":"Maximize Subarray GCD Score","titleSlug":"maximize-subarray-gcd-score"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3575,"title":"Maximum Good Subtree Score","titleSlug":"maximum-good-subtree-score"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3576,"title":"Transform Array to All Equal Elements","titleSlug":"transform-array-to-all-equal-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3577,"title":"Count the Number of Computer Unlocking Permutations","titleSlug":"count-the-number-of-computer-unlocking-permutations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3578,"title":"Count Partitions With Max-Min Difference at Most K","titleSlug":"count-partitions-with-max-min-difference-at-most-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3579,"title":"Minimum Steps to Convert String with Operations","titleSlug":"minimum-steps-to-convert-string-with-operations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3580,"title":"Find Consistently Improving Employees","titleSlug":"find-consistently-improving-employees"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3581,"title":"Count Odd Letters from Number","titleSlug":"count-odd-letters-from-number"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3582,"title":"Generate Tag for Video Caption","titleSlug":"generate-tag-for-video-caption"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3583,"title":"Count Special Triplets","titleSlug":"count-special-triplets"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3584,"title":"Maximum Product of First and Last Elements of a Subsequence","titleSlug":"maximum-product-of-first-and-last-elements-of-a-subsequence"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3585,"title":"Find Weighted Median Node in Tree","titleSlug":"find-weighted-median-node-in-tree"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3586,"title":"Find COVID Recovery Patients","titleSlug":"find-covid-recovery-patients"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3587,"title":"Minimum Adjacent Swaps to Alternate Parity","titleSlug":"minimum-adjacent-swaps-to-alternate-parity"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3588,"title":"Find Maximum Area of a Triangle","titleSlug":"find-maximum-area-of-a-triangle"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3589,"title":"Count Prime-Gap Balanced Subarrays","titleSlug":"count-prime-gap-balanced-subarrays"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3590,"title":"Kth Smallest Path XOR Sum","titleSlug":"kth-smallest-path-xor-sum"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3591,"title":"Check if Any Element Has Prime Frequency","titleSlug":"check-if-any-element-has-prime-frequency"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3592,"title":"Inverse Coin Change","titleSlug":"inverse-coin-change"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3593,"title":"Minimum Increments to Equalize Leaf Paths","titleSlug":"minimum-increments-to-equalize-leaf-paths"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3594,"title":"Minimum Time to Transport All Individuals","titleSlug":"minimum-time-to-transport-all-individuals"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3595,"title":"Once Twice","titleSlug":"once-twice"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3596,"title":"Minimum Cost Path with Alternating Directions I","titleSlug":"minimum-cost-path-with-alternating-directions-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3597,"title":"Partition String","titleSlug":"partition-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3598,"title":"Longest Common Prefix Between Adjacent Strings After Removals","titleSlug":"longest-common-prefix-between-adjacent-strings-after-removals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3599,"title":"Partition Array to Minimize XOR","titleSlug":"partition-array-to-minimize-xor"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3600,"title":"Maximize Spanning Tree Stability with Upgrades","titleSlug":"maximize-spanning-tree-stability-with-upgrades"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3601,"title":"Find Drivers with Improved Fuel Efficiency","titleSlug":"find-drivers-with-improved-fuel-efficiency"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3602,"title":"Hexadecimal and Hexatrigesimal Conversion","titleSlug":"hexadecimal-and-hexatrigesimal-conversion"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3603,"title":"Minimum Cost Path with Alternating Directions II","titleSlug":"minimum-cost-path-with-alternating-directions-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3604,"title":"Minimum Time to Reach Destination in Directed Graph","titleSlug":"minimum-time-to-reach-destination-in-directed-graph"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3605,"title":"Minimum Stability Factor of Array","titleSlug":"minimum-stability-factor-of-array"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3606,"title":"Coupon Code Validator","titleSlug":"coupon-code-validator"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3607,"title":"Power Grid Maintenance","titleSlug":"power-grid-maintenance"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3608,"title":"Minimum Time for K Connected Components","titleSlug":"minimum-time-for-k-connected-components"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3609,"title":"Minimum Moves to Reach Target in Grid","titleSlug":"minimum-moves-to-reach-target-in-grid"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3610,"title":"Minimum Number of Primes to Sum to Target","titleSlug":"minimum-number-of-primes-to-sum-to-target"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3611,"title":"Find Overbooked Employees","titleSlug":"find-overbooked-employees"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3612,"title":"Process String with Special Operations I","titleSlug":"process-string-with-special-operations-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3613,"title":"Minimize Maximum Component Cost","titleSlug":"minimize-maximum-component-cost"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3614,"title":"Process String with Special Operations II","titleSlug":"process-string-with-special-operations-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3615,"title":"Longest Palindromic Path in Graph","titleSlug":"longest-palindromic-path-in-graph"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3616,"title":"Number of Student Replacements","titleSlug":"number-of-student-replacements"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3617,"title":"Find Students with Study Spiral Pattern","titleSlug":"find-students-with-study-spiral-pattern"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3618,"title":"Split Array by Prime Indices","titleSlug":"split-array-by-prime-indices"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3619,"title":"Count Islands With Total Value Divisible by K","titleSlug":"count-islands-with-total-value-divisible-by-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3620,"title":"Network Recovery Pathways","titleSlug":"network-recovery-pathways"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3621,"title":"Number of Integers With Popcount-Depth Equal to K I","titleSlug":"number-of-integers-with-popcount-depth-equal-to-k-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3622,"title":"Check Divisibility by Digit Sum and Product","titleSlug":"check-divisibility-by-digit-sum-and-product"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3623,"title":"Count Number of Trapezoids I","titleSlug":"count-number-of-trapezoids-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3624,"title":"Number of Integers With Popcount-Depth Equal to K II","titleSlug":"number-of-integers-with-popcount-depth-equal-to-k-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3625,"title":"Count Number of Trapezoids II","titleSlug":"count-number-of-trapezoids-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3626,"title":"Find Stores with Inventory Imbalance","titleSlug":"find-stores-with-inventory-imbalance"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3627,"title":"Maximum Median Sum of Subsequences of Size 3","titleSlug":"maximum-median-sum-of-subsequences-of-size-3"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3628,"title":"Maximum Number of Subsequences After One Inserting","titleSlug":"maximum-number-of-subsequences-after-one-inserting"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3629,"title":"Minimum Jumps to Reach End via Prime Teleportation","titleSlug":"minimum-jumps-to-reach-end-via-prime-teleportation"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3630,"title":"Partition Array for Maximum XOR and AND","titleSlug":"partition-array-for-maximum-xor-and-and"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3631,"title":"Sort Threats by Severity and Exploitability","titleSlug":"sort-threats-by-severity-and-exploitability"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3632,"title":"Subarrays with XOR at Least K","titleSlug":"subarrays-with-xor-at-least-k"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3633,"title":"Earliest Finish Time for Land and Water Rides I","titleSlug":"earliest-finish-time-for-land-and-water-rides-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3634,"title":"Minimum Removals to Balance Array","titleSlug":"minimum-removals-to-balance-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3635,"title":"Earliest Finish Time for Land and Water Rides II","titleSlug":"earliest-finish-time-for-land-and-water-rides-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3636,"title":"Threshold Majority Queries","titleSlug":"threshold-majority-queries"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3637,"title":"Trionic Array I","titleSlug":"trionic-array-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3638,"title":"Maximum Balanced Shipments","titleSlug":"maximum-balanced-shipments"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3639,"title":"Minimum Time to Activate String","titleSlug":"minimum-time-to-activate-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3640,"title":"Trionic Array II","titleSlug":"trionic-array-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3641,"title":"Longest Semi-Repeating Subarray","titleSlug":"longest-semi-repeating-subarray"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3642,"title":"Find Books with Polarized Opinions","titleSlug":"find-books-with-polarized-opinions"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3643,"title":"Flip Square Submatrix Vertically","titleSlug":"flip-square-submatrix-vertically"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3644,"title":"Maximum K to Sort a Permutation","titleSlug":"maximum-k-to-sort-a-permutation"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3645,"title":"Maximum Total from Optimal Activation Order","titleSlug":"maximum-total-from-optimal-activation-order"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3646,"title":"Next Special Palindrome Number","titleSlug":"next-special-palindrome-number"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3647,"title":"Maximum Weight in Two Bags","titleSlug":"maximum-weight-in-two-bags"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3648,"title":"Minimum Sensors to Cover Grid","titleSlug":"minimum-sensors-to-cover-grid"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3649,"title":"Number of Perfect Pairs","titleSlug":"number-of-perfect-pairs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3650,"title":"Minimum Cost Path with Edge Reversals","titleSlug":"minimum-cost-path-with-edge-reversals"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3651,"title":"Minimum Cost Path with Teleportations","titleSlug":"minimum-cost-path-with-teleportations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3652,"title":"Best Time to Buy and Sell Stock using Strategy","titleSlug":"best-time-to-buy-and-sell-stock-using-strategy"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3653,"title":"XOR After Range Multiplication Queries I","titleSlug":"xor-after-range-multiplication-queries-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3654,"title":"Minimum Sum After Divisible Sum Deletions","titleSlug":"minimum-sum-after-divisible-sum-deletions"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3655,"title":"XOR After Range Multiplication Queries II","titleSlug":"xor-after-range-multiplication-queries-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3656,"title":"Determine if a Simple Graph Exists","titleSlug":"determine-if-a-simple-graph-exists"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3657,"title":"Find Loyal Customers","titleSlug":"find-loyal-customers"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3658,"title":"GCD of Odd and Even Sums","titleSlug":"gcd-of-odd-and-even-sums"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3659,"title":"Partition Array Into K-Distinct Groups","titleSlug":"partition-array-into-k-distinct-groups"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3660,"title":"Jump Game IX","titleSlug":"jump-game-ix"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3661,"title":"Maximum Walls Destroyed by Robots","titleSlug":"maximum-walls-destroyed-by-robots"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3662,"title":"Filter Characters by Frequency","titleSlug":"filter-characters-by-frequency"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3663,"title":"Find The Least Frequent Digit","titleSlug":"find-the-least-frequent-digit"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3664,"title":"Two-Letter Card Game","titleSlug":"two-letter-card-game"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3665,"title":"Twisted Mirror Path Count","titleSlug":"twisted-mirror-path-count"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3666,"title":"Minimum Operations to Equalize Binary String","titleSlug":"minimum-operations-to-equalize-binary-string"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3667,"title":"Sort Array By Absolute Value","titleSlug":"sort-array-by-absolute-value"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3668,"title":"Restore Finishing Order","titleSlug":"restore-finishing-order"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3669,"title":"Balanced K-Factor Decomposition","titleSlug":"balanced-k-factor-decomposition"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3670,"title":"Maximum Product of Two Integers With No Common Bits","titleSlug":"maximum-product-of-two-integers-with-no-common-bits"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3671,"title":"Sum of Beautiful Subsequences","titleSlug":"sum-of-beautiful-subsequences"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3672,"title":"Sum of Weighted Modes in Subarrays","titleSlug":"sum-of-weighted-modes-in-subarrays"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3673,"title":"Find Zombie Sessions","titleSlug":"find-zombie-sessions"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3674,"title":"Minimum Operations to Equalize Array","titleSlug":"minimum-operations-to-equalize-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3675,"title":"Minimum Operations to Transform String","titleSlug":"minimum-operations-to-transform-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3676,"title":"Count Bowl Subarrays","titleSlug":"count-bowl-subarrays"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3677,"title":"Count Binary Palindromic Numbers","titleSlug":"count-binary-palindromic-numbers"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3678,"title":"Smallest Absent Positive Greater Than Average","titleSlug":"smallest-absent-positive-greater-than-average"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3679,"title":"Minimum Discards to Balance Inventory","titleSlug":"minimum-discards-to-balance-inventory"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3680,"title":"Generate Schedule","titleSlug":"generate-schedule"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3681,"title":"Maximum XOR of Subsequences","titleSlug":"maximum-xor-of-subsequences"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3682,"title":"Minimum Index Sum of Common Elements","titleSlug":"minimum-index-sum-of-common-elements"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3683,"title":"Earliest Time to Finish One Task","titleSlug":"earliest-time-to-finish-one-task"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3684,"title":"Maximize Sum of At Most K Distinct Elements","titleSlug":"maximize-sum-of-at-most-k-distinct-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3685,"title":"Subsequence Sum After Capping Elements","titleSlug":"subsequence-sum-after-capping-elements"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3686,"title":"Number of Stable Subsequences","titleSlug":"number-of-stable-subsequences"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3687,"title":"Library Late Fee Calculator","titleSlug":"library-late-fee-calculator"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3688,"title":"Bitwise OR of Even Numbers in an Array","titleSlug":"bitwise-or-of-even-numbers-in-an-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3689,"title":"Maximum Total Subarray Value I","titleSlug":"maximum-total-subarray-value-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3690,"title":"Split and Merge Array Transformation","titleSlug":"split-and-merge-array-transformation"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3691,"title":"Maximum Total Subarray Value II","titleSlug":"maximum-total-subarray-value-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3692,"title":"Majority Frequency Characters","titleSlug":"majority-frequency-characters"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3693,"title":"Climbing Stairs II","titleSlug":"climbing-stairs-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3694,"title":"Distinct Points Reachable After Substring Removal","titleSlug":"distinct-points-reachable-after-substring-removal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3695,"title":"Maximize Alternating Sum Using Swaps","titleSlug":"maximize-alternating-sum-using-swaps"}
+{"difficulty":"Easy","isPaidOnly":true,"questionFrontendId":3696,"title":"Maximum Distance Between Unequal Words in Array I","titleSlug":"maximum-distance-between-unequal-words-in-array-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3697,"title":"Compute Decimal Representation","titleSlug":"compute-decimal-representation"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3698,"title":"Split Array With Minimum Difference","titleSlug":"split-array-with-minimum-difference"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3699,"title":"Number of ZigZag Arrays I","titleSlug":"number-of-zigzag-arrays-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3700,"title":"Number of ZigZag Arrays II","titleSlug":"number-of-zigzag-arrays-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3701,"title":"Compute Alternating Sum","titleSlug":"compute-alternating-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3702,"title":"Longest Subsequence With Non-Zero Bitwise XOR","titleSlug":"longest-subsequence-with-non-zero-bitwise-xor"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3703,"title":"Remove K-Balanced Substrings","titleSlug":"remove-k-balanced-substrings"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3704,"title":"Count No-Zero Pairs That Sum to N","titleSlug":"count-no-zero-pairs-that-sum-to-n"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3705,"title":"Find Golden Hour Customers","titleSlug":"find-golden-hour-customers"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3706,"title":"Maximum Distance Between Unequal Words in Array II","titleSlug":"maximum-distance-between-unequal-words-in-array-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3707,"title":"Equal Score Substrings","titleSlug":"equal-score-substrings"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3708,"title":"Longest Fibonacci Subarray","titleSlug":"longest-fibonacci-subarray"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3709,"title":"Design Exam Scores Tracker","titleSlug":"design-exam-scores-tracker"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3710,"title":"Maximum Partition Factor","titleSlug":"maximum-partition-factor"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3711,"title":"Maximum Transactions Without Negative Balance","titleSlug":"maximum-transactions-without-negative-balance"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3712,"title":"Sum of Elements With Frequency Divisible by K","titleSlug":"sum-of-elements-with-frequency-divisible-by-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3713,"title":"Longest Balanced Substring I","titleSlug":"longest-balanced-substring-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3714,"title":"Longest Balanced Substring II","titleSlug":"longest-balanced-substring-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3715,"title":"Sum of Perfect Square Ancestors","titleSlug":"sum-of-perfect-square-ancestors"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3716,"title":"Find Churn Risk Customers","titleSlug":"find-churn-risk-customers"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3717,"title":"Minimum Operations to Make the Array Beautiful","titleSlug":"minimum-operations-to-make-the-array-beautiful"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3718,"title":"Smallest Missing Multiple of K","titleSlug":"smallest-missing-multiple-of-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3719,"title":"Longest Balanced Subarray I","titleSlug":"longest-balanced-subarray-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3720,"title":"Lexicographically Smallest Permutation Greater Than Target","titleSlug":"lexicographically-smallest-permutation-greater-than-target"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3721,"title":"Longest Balanced Subarray II","titleSlug":"longest-balanced-subarray-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3722,"title":"Lexicographically Smallest String After Reverse","titleSlug":"lexicographically-smallest-string-after-reverse"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3723,"title":"Maximize Sum of Squares of Digits","titleSlug":"maximize-sum-of-squares-of-digits"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3724,"title":"Minimum Operations to Transform Array","titleSlug":"minimum-operations-to-transform-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3725,"title":"Count Ways to Choose Coprime Integers from Rows","titleSlug":"count-ways-to-choose-coprime-integers-from-rows"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3726,"title":"Remove Zeros in Decimal Representation","titleSlug":"remove-zeros-in-decimal-representation"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3727,"title":"Maximum Alternating Sum of Squares","titleSlug":"maximum-alternating-sum-of-squares"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3728,"title":"Stable Subarrays With Equal Boundary and Interior Sum","titleSlug":"stable-subarrays-with-equal-boundary-and-interior-sum"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3729,"title":"Count Distinct Subarrays Divisible by K in Sorted Array","titleSlug":"count-distinct-subarrays-divisible-by-k-in-sorted-array"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3730,"title":"Maximum Calories Burnt from Jumps","titleSlug":"maximum-calories-burnt-from-jumps"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3731,"title":"Find Missing Elements","titleSlug":"find-missing-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3732,"title":"Maximum Product of Three Elements After One Replacement","titleSlug":"maximum-product-of-three-elements-after-one-replacement"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3733,"title":"Minimum Time to Complete All Deliveries","titleSlug":"minimum-time-to-complete-all-deliveries"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3734,"title":"Lexicographically Smallest Palindromic Permutation Greater Than Target","titleSlug":"lexicographically-smallest-palindromic-permutation-greater-than-target"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3735,"title":"Lexicographically Smallest String After Reverse II","titleSlug":"lexicographically-smallest-string-after-reverse-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3736,"title":"Minimum Moves to Equal Array Elements III","titleSlug":"minimum-moves-to-equal-array-elements-iii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3737,"title":"Count Subarrays With Majority Element I","titleSlug":"count-subarrays-with-majority-element-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3738,"title":"Longest Non-Decreasing Subarray After Replacing at Most One Element","titleSlug":"longest-non-decreasing-subarray-after-replacing-at-most-one-element"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3739,"title":"Count Subarrays With Majority Element II","titleSlug":"count-subarrays-with-majority-element-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3740,"title":"Minimum Distance Between Three Equal Elements I","titleSlug":"minimum-distance-between-three-equal-elements-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3741,"title":"Minimum Distance Between Three Equal Elements II","titleSlug":"minimum-distance-between-three-equal-elements-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3742,"title":"Maximum Path Score in a Grid","titleSlug":"maximum-path-score-in-a-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3743,"title":"Maximize Cyclic Partition Score","titleSlug":"maximize-cyclic-partition-score"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3744,"title":"Find Kth Character in Expanded String","titleSlug":"find-kth-character-in-expanded-string"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3745,"title":"Maximize Expression of Three Elements","titleSlug":"maximize-expression-of-three-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3746,"title":"Minimum String Length After Balanced Removals","titleSlug":"minimum-string-length-after-balanced-removals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3747,"title":"Count Distinct Integers After Removing Zeros","titleSlug":"count-distinct-integers-after-removing-zeros"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3748,"title":"Count Stable Subarrays","titleSlug":"count-stable-subarrays"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3749,"title":"Evaluate Valid Expressions","titleSlug":"evaluate-valid-expressions"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3750,"title":"Minimum Number of Flips to Reverse Binary String","titleSlug":"minimum-number-of-flips-to-reverse-binary-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3751,"title":"Total Waviness of Numbers in Range I","titleSlug":"total-waviness-of-numbers-in-range-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3752,"title":"Lexicographically Smallest Negated Permutation that Sums to Target","titleSlug":"lexicographically-smallest-negated-permutation-that-sums-to-target"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3753,"title":"Total Waviness of Numbers in Range II","titleSlug":"total-waviness-of-numbers-in-range-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3754,"title":"Concatenate Non-Zero Digits and Multiply by Sum I","titleSlug":"concatenate-non-zero-digits-and-multiply-by-sum-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3755,"title":"Find Maximum Balanced XOR Subarray Length","titleSlug":"find-maximum-balanced-xor-subarray-length"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3756,"title":"Concatenate Non-Zero Digits and Multiply by Sum II","titleSlug":"concatenate-non-zero-digits-and-multiply-by-sum-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3757,"title":"Number of Effective Subsequences","titleSlug":"number-of-effective-subsequences"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3758,"title":"Convert Number Words to Digits","titleSlug":"convert-number-words-to-digits"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3759,"title":"Count Elements With at Least K Greater Values","titleSlug":"count-elements-with-at-least-k-greater-values"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3760,"title":"Maximum Substrings With Distinct Start","titleSlug":"maximum-substrings-with-distinct-start"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3761,"title":"Minimum Absolute Distance Between Mirror Pairs","titleSlug":"minimum-absolute-distance-between-mirror-pairs"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3762,"title":"Minimum Operations to Equalize Subarrays","titleSlug":"minimum-operations-to-equalize-subarrays"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3763,"title":"Maximum Total Sum with Threshold Constraints","titleSlug":"maximum-total-sum-with-threshold-constraints"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3764,"title":"Most Common Course Pairs","titleSlug":"most-common-course-pairs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3765,"title":"Complete Prime Number","titleSlug":"complete-prime-number"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3766,"title":"Minimum Operations to Make Binary Palindrome","titleSlug":"minimum-operations-to-make-binary-palindrome"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3767,"title":"Maximize Points After Choosing K Tasks","titleSlug":"maximize-points-after-choosing-k-tasks"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3768,"title":"Minimum Inversion Count in Subarrays of Fixed Length","titleSlug":"minimum-inversion-count-in-subarrays-of-fixed-length"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3769,"title":"Sort Integers by Binary Reflection","titleSlug":"sort-integers-by-binary-reflection"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3770,"title":"Largest Prime from Consecutive Prime Sum","titleSlug":"largest-prime-from-consecutive-prime-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3771,"title":"Total Score of Dungeon Runs","titleSlug":"total-score-of-dungeon-runs"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3772,"title":"Maximum Subgraph Score in a Tree","titleSlug":"maximum-subgraph-score-in-a-tree"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3773,"title":"Maximum Number of Equal Length Runs","titleSlug":"maximum-number-of-equal-length-runs"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3774,"title":"Absolute Difference Between Maximum and Minimum K Elements","titleSlug":"absolute-difference-between-maximum-and-minimum-k-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3775,"title":"Reverse Words With Same Vowel Count","titleSlug":"reverse-words-with-same-vowel-count"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3776,"title":"Minimum Moves to Balance Circular Array","titleSlug":"minimum-moves-to-balance-circular-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3777,"title":"Minimum Deletions to Make Alternating Substring","titleSlug":"minimum-deletions-to-make-alternating-substring"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3778,"title":"Minimum Distance Excluding One Maximum Weighted Edge","titleSlug":"minimum-distance-excluding-one-maximum-weighted-edge"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3779,"title":"Minimum Number of Operations to Have Distinct Elements","titleSlug":"minimum-number-of-operations-to-have-distinct-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3780,"title":"Maximum Sum of Three Numbers Divisible by Three","titleSlug":"maximum-sum-of-three-numbers-divisible-by-three"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3781,"title":"Maximum Score After Binary Swaps","titleSlug":"maximum-score-after-binary-swaps"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3782,"title":"Last Remaining Integer After Alternating Deletion Operations","titleSlug":"last-remaining-integer-after-alternating-deletion-operations"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3783,"title":"Mirror Distance of an Integer","titleSlug":"mirror-distance-of-an-integer"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3784,"title":"Minimum Deletion Cost to Make All Characters Equal","titleSlug":"minimum-deletion-cost-to-make-all-characters-equal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3785,"title":"Minimum Swaps to Avoid Forbidden Values","titleSlug":"minimum-swaps-to-avoid-forbidden-values"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3786,"title":"Total Sum of Interaction Cost in Tree Groups","titleSlug":"total-sum-of-interaction-cost-in-tree-groups"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3787,"title":"Find Diameter Endpoints of a Tree","titleSlug":"find-diameter-endpoints-of-a-tree"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3788,"title":"Maximum Score of a Split","titleSlug":"maximum-score-of-a-split"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3789,"title":"Minimum Cost to Acquire Required Items","titleSlug":"minimum-cost-to-acquire-required-items"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3790,"title":"Smallest All-Ones Multiple","titleSlug":"smallest-all-ones-multiple"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3791,"title":"Number of Balanced Integers in a Range","titleSlug":"number-of-balanced-integers-in-a-range"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3792,"title":"Sum of Increasing Product Blocks","titleSlug":"sum-of-increasing-product-blocks"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3793,"title":"Find Users with High Token Usage","titleSlug":"find-users-with-high-token-usage"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3794,"title":"Reverse String Prefix","titleSlug":"reverse-string-prefix"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3795,"title":"Minimum Subarray Length With Distinct Sum At Least K","titleSlug":"minimum-subarray-length-with-distinct-sum-at-least-k"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3796,"title":"Find Maximum Value in a Constrained Sequence","titleSlug":"find-maximum-value-in-a-constrained-sequence"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3797,"title":"Count Routes to Climb a Rectangular Grid","titleSlug":"count-routes-to-climb-a-rectangular-grid"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3798,"title":"Largest Even Number","titleSlug":"largest-even-number"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3799,"title":"Word Squares II","titleSlug":"word-squares-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3800,"title":"Minimum Cost to Make Two Binary Strings Equal","titleSlug":"minimum-cost-to-make-two-binary-strings-equal"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3801,"title":"Minimum Cost to Merge Sorted Lists","titleSlug":"minimum-cost-to-merge-sorted-lists"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3802,"title":"Number of Ways to Paint Sheets","titleSlug":"number-of-ways-to-paint-sheets"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3803,"title":"Count Residue Prefixes","titleSlug":"count-residue-prefixes"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3804,"title":"Number of Centered Subarrays","titleSlug":"number-of-centered-subarrays"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3805,"title":"Count Caesar Cipher Pairs","titleSlug":"count-caesar-cipher-pairs"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3806,"title":"Maximum Bitwise AND After Increment Operations","titleSlug":"maximum-bitwise-and-after-increment-operations"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3807,"title":"Minimum Cost to Repair Edges to Traverse a Graph","titleSlug":"minimum-cost-to-repair-edges-to-traverse-a-graph"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3808,"title":"Find Emotionally Consistent Users","titleSlug":"find-emotionally-consistent-users"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3809,"title":"Best Reachable Tower","titleSlug":"best-reachable-tower"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3810,"title":"Minimum Operations to Reach Target Array","titleSlug":"minimum-operations-to-reach-target-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3811,"title":"Number of Alternating XOR Partitions","titleSlug":"number-of-alternating-xor-partitions"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3812,"title":"Minimum Edge Toggles on a Tree","titleSlug":"minimum-edge-toggles-on-a-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3813,"title":"Vowel-Consonant Score","titleSlug":"vowel-consonant-score"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3814,"title":"Maximum Capacity Within Budget","titleSlug":"maximum-capacity-within-budget"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3815,"title":"Design Auction System","titleSlug":"design-auction-system"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3816,"title":"Lexicographically Smallest String After Deleting Duplicate Characters","titleSlug":"lexicographically-smallest-string-after-deleting-duplicate-characters"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3817,"title":"Good Indices in a Digit String","titleSlug":"good-indices-in-a-digit-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3818,"title":"Minimum Prefix Removal to Make Array Strictly Increasing","titleSlug":"minimum-prefix-removal-to-make-array-strictly-increasing"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3819,"title":"Rotate Non Negative Elements","titleSlug":"rotate-non-negative-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3820,"title":"Pythagorean Distance Nodes in a Tree","titleSlug":"pythagorean-distance-nodes-in-a-tree"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3821,"title":"Find Nth Smallest Integer With K One Bits","titleSlug":"find-nth-smallest-integer-with-k-one-bits"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3822,"title":"Design Order Management System","titleSlug":"design-order-management-system"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3823,"title":"Reverse Letters Then Special Characters in a String","titleSlug":"reverse-letters-then-special-characters-in-a-string"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3824,"title":"Minimum K to Reduce Array Within Limit","titleSlug":"minimum-k-to-reduce-array-within-limit"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3825,"title":"Longest Strictly Increasing Subsequence With Non-Zero Bitwise AND","titleSlug":"longest-strictly-increasing-subsequence-with-non-zero-bitwise-and"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3826,"title":"Minimum Partition Score","titleSlug":"minimum-partition-score"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3827,"title":"Count Monobit Integers","titleSlug":"count-monobit-integers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3828,"title":"Final Element After Subarray Deletions","titleSlug":"final-element-after-subarray-deletions"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3829,"title":"Design Ride Sharing System","titleSlug":"design-ride-sharing-system"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3830,"title":"Longest Alternating Subarray After Removing At Most One Element","titleSlug":"longest-alternating-subarray-after-removing-at-most-one-element"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3831,"title":"Median of a Binary Search Tree Level","titleSlug":"median-of-a-binary-search-tree-level"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3832,"title":"Find Users with Persistent Behavior Patterns","titleSlug":"find-users-with-persistent-behavior-patterns"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3833,"title":"Count Dominant Indices","titleSlug":"count-dominant-indices"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3834,"title":"Merge Adjacent Equal Elements","titleSlug":"merge-adjacent-equal-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3835,"title":"Count Subarrays With Cost Less Than or Equal to K","titleSlug":"count-subarrays-with-cost-less-than-or-equal-to-k"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3836,"title":"Maximum Score Using Exactly K Pairs","titleSlug":"maximum-score-using-exactly-k-pairs"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3837,"title":"Delayed Count of Equal Elements","titleSlug":"delayed-count-of-equal-elements"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3838,"title":"Weighted Word Mapping","titleSlug":"weighted-word-mapping"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3839,"title":"Number of Prefix Connected Groups","titleSlug":"number-of-prefix-connected-groups"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3840,"title":"House Robber V","titleSlug":"house-robber-v"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3841,"title":"Palindromic Path Queries in a Tree","titleSlug":"palindromic-path-queries-in-a-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3842,"title":"Toggle Light Bulbs","titleSlug":"toggle-light-bulbs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3843,"title":"First Element with Unique Frequency","titleSlug":"first-element-with-unique-frequency"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3844,"title":"Longest Almost-Palindromic Substring","titleSlug":"longest-almost-palindromic-substring"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3845,"title":"Maximum Subarray XOR with Bounded Range","titleSlug":"maximum-subarray-xor-with-bounded-range"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3846,"title":"Total Distance to Type a String Using One Finger","titleSlug":"total-distance-to-type-a-string-using-one-finger"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3847,"title":"Find the Score Difference in a Game","titleSlug":"find-the-score-difference-in-a-game"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3848,"title":"Check Digitorial Permutation","titleSlug":"check-digitorial-permutation"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3849,"title":"Maximum Bitwise XOR After Rearrangement","titleSlug":"maximum-bitwise-xor-after-rearrangement"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3850,"title":"Count Sequences to K","titleSlug":"count-sequences-to-k"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3851,"title":"Maximum Requests Without Violating the Limit","titleSlug":"maximum-requests-without-violating-the-limit"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3852,"title":"Smallest Pair With Different Frequencies","titleSlug":"smallest-pair-with-different-frequencies"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3853,"title":"Merge Close Characters","titleSlug":"merge-close-characters"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3854,"title":"Minimum Operations to Make Array Parity Alternating","titleSlug":"minimum-operations-to-make-array-parity-alternating"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3855,"title":"Sum of K-Digit Numbers in a Range","titleSlug":"sum-of-k-digit-numbers-in-a-range"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3856,"title":"Trim Trailing Vowels","titleSlug":"trim-trailing-vowels"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3857,"title":"Minimum Cost to Split into Ones","titleSlug":"minimum-cost-to-split-into-ones"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3858,"title":"Minimum Bitwise OR From Grid","titleSlug":"minimum-bitwise-or-from-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3859,"title":"Count Subarrays With K Distinct Integers","titleSlug":"count-subarrays-with-k-distinct-integers"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3860,"title":"Unique Email Groups","titleSlug":"unique-email-groups"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3861,"title":"Minimum Capacity Box","titleSlug":"minimum-capacity-box"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3862,"title":"Find the Smallest Balanced Index","titleSlug":"find-the-smallest-balanced-index"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3863,"title":"Minimum Operations to Sort a String","titleSlug":"minimum-operations-to-sort-a-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3864,"title":"Minimum Cost to Partition a Binary String","titleSlug":"minimum-cost-to-partition-a-binary-string"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3865,"title":"Reverse K Subarrays","titleSlug":"reverse-k-subarrays"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3866,"title":"First Unique Even Element","titleSlug":"first-unique-even-element"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3867,"title":"Sum of GCD of Formed Pairs","titleSlug":"sum-of-gcd-of-formed-pairs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3868,"title":"Minimum Cost to Equalize Arrays Using Swaps","titleSlug":"minimum-cost-to-equalize-arrays-using-swaps"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3869,"title":"Count Fancy Numbers in a Range","titleSlug":"count-fancy-numbers-in-a-range"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3870,"title":"Count Commas in Range","titleSlug":"count-commas-in-range"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3871,"title":"Count Commas in Range II","titleSlug":"count-commas-in-range-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3872,"title":"Longest Arithmetic Sequence After Changing At Most One Element","titleSlug":"longest-arithmetic-sequence-after-changing-at-most-one-element"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3873,"title":"Maximum Points Activated with One Addition","titleSlug":"maximum-points-activated-with-one-addition"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3874,"title":"Valid Subarrays With Exactly One Peak","titleSlug":"valid-subarrays-with-exactly-one-peak"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3875,"title":"Construct Uniform Parity Array I","titleSlug":"construct-uniform-parity-array-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3876,"title":"Construct Uniform Parity Array II","titleSlug":"construct-uniform-parity-array-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3877,"title":"Minimum Removals to Achieve Target XOR","titleSlug":"minimum-removals-to-achieve-target-xor"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3878,"title":"Count Good Subarrays","titleSlug":"count-good-subarrays"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3879,"title":"Maximum Distinct Path Sum in a Binary Tree","titleSlug":"maximum-distinct-path-sum-in-a-binary-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3880,"title":"Minimum Absolute Difference Between Two Values","titleSlug":"minimum-absolute-difference-between-two-values"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3881,"title":"Direction Assignments with Exactly K Visible People","titleSlug":"direction-assignments-with-exactly-k-visible-people"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3882,"title":"Minimum XOR Path in a Grid","titleSlug":"minimum-xor-path-in-a-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3883,"title":"Count Non Decreasing Arrays With Given Digit Sums","titleSlug":"count-non-decreasing-arrays-with-given-digit-sums"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3884,"title":"First Matching Character From Both Ends","titleSlug":"first-matching-character-from-both-ends"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3885,"title":"Design Event Manager","titleSlug":"design-event-manager"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3886,"title":"Sum of Sortable Integers","titleSlug":"sum-of-sortable-integers"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3887,"title":"Incremental Even-Weighted Cycle Queries","titleSlug":"incremental-even-weighted-cycle-queries"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3888,"title":"Minimum Operations to Make All Grid Elements Equal","titleSlug":"minimum-operations-to-make-all-grid-elements-equal"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3889,"title":"Mirror Frequency Distance","titleSlug":"mirror-frequency-distance"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3890,"title":"Integers With Multiple Sum of Two Cubes","titleSlug":"integers-with-multiple-sum-of-two-cubes"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3891,"title":"Minimum Increase to Maximize Special Indices","titleSlug":"minimum-increase-to-maximize-special-indices"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3892,"title":"Minimum Operations to Achieve At Least K Peaks","titleSlug":"minimum-operations-to-achieve-at-least-k-peaks"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3893,"title":"Maximum Team Size with Overlapping Intervals","titleSlug":"maximum-team-size-with-overlapping-intervals"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3894,"title":"Traffic Signal Color","titleSlug":"traffic-signal-color"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3895,"title":"Count Digit Appearances","titleSlug":"count-digit-appearances"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3896,"title":"Minimum Operations to Transform Array into Alternating Prime","titleSlug":"minimum-operations-to-transform-array-into-alternating-prime"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3897,"title":"Maximum Value of Concatenated Binary Segments","titleSlug":"maximum-value-of-concatenated-binary-segments"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3898,"title":"Find the Degree of Each Vertex","titleSlug":"find-the-degree-of-each-vertex"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3899,"title":"Angles of a Triangle","titleSlug":"angles-of-a-triangle"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3900,"title":"Longest Balanced Substring After One Swap","titleSlug":"longest-balanced-substring-after-one-swap"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3901,"title":"Good Subsequence Queries","titleSlug":"good-subsequence-queries"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3902,"title":"Zigzag Level Sum of Binary Tree","titleSlug":"zigzag-level-sum-of-binary-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3903,"title":"Smallest Stable Index I","titleSlug":"smallest-stable-index-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3904,"title":"Smallest Stable Index II","titleSlug":"smallest-stable-index-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3905,"title":"Multi Source Flood Fill","titleSlug":"multi-source-flood-fill"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3906,"title":"Count Good Integers on a Grid Path","titleSlug":"count-good-integers-on-a-grid-path"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3907,"title":"Count Smaller Elements With Opposite Parity","titleSlug":"count-smaller-elements-with-opposite-parity"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3908,"title":"Valid Digit Number","titleSlug":"valid-digit-number"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3909,"title":"Compare Sums of Bitonic Parts","titleSlug":"compare-sums-of-bitonic-parts"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3910,"title":"Count Connected Subgraphs with Even Node Sum","titleSlug":"count-connected-subgraphs-with-even-node-sum"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3911,"title":"K-th Smallest Remaining Even Integer in Subarray Queries","titleSlug":"k-th-smallest-remaining-even-integer-in-subarray-queries"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3912,"title":"Valid Elements in an Array","titleSlug":"valid-elements-in-an-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3913,"title":"Sort Vowels by Frequency","titleSlug":"sort-vowels-by-frequency"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3914,"title":"Minimum Operations to Make Array Non Decreasing","titleSlug":"minimum-operations-to-make-array-non-decreasing"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3915,"title":"Maximum Sum of Alternating Subsequence With Distance at Least K","titleSlug":"maximum-sum-of-alternating-subsequence-with-distance-at-least-k"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3916,"title":"Number of ZigZag Arrays III","titleSlug":"number-of-zigzag-arrays-iii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3917,"title":"Count Indices With Opposite Parity","titleSlug":"count-indices-with-opposite-parity"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3918,"title":"Sum of Primes Between Number and Its Reverse","titleSlug":"sum-of-primes-between-number-and-its-reverse"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3919,"title":"Minimum Cost to Move Between Indices","titleSlug":"minimum-cost-to-move-between-indices"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3920,"title":"Maximize Fixed Points After Deletions","titleSlug":"maximize-fixed-points-after-deletions"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3921,"title":"Score Validator","titleSlug":"score-validator"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3922,"title":"Minimum Flips to Make Binary String Coherent","titleSlug":"minimum-flips-to-make-binary-string-coherent"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3923,"title":"Minimum Generations to Target Point","titleSlug":"minimum-generations-to-target-point"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3924,"title":"Minimum Threshold Path With Limited Heavy Edges","titleSlug":"minimum-threshold-path-with-limited-heavy-edges"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3925,"title":"Concatenate Array With Reverse","titleSlug":"concatenate-array-with-reverse"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3926,"title":"Count Valid Word Occurrences","titleSlug":"count-valid-word-occurrences"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3927,"title":"Minimize Array Sum Using Divisible Replacements","titleSlug":"minimize-array-sum-using-divisible-replacements"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3928,"title":"Minimum Cost to Buy Apples II","titleSlug":"minimum-cost-to-buy-apples-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3929,"title":"Minimum Partition Score II","titleSlug":"minimum-partition-score-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3930,"title":"Power Update After K-th Largest Insertion II","titleSlug":"power-update-after-k-th-largest-insertion-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3931,"title":"Check Adjacent Digit Differences","titleSlug":"check-adjacent-digit-differences"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3932,"title":"Count K-th Roots in a Range","titleSlug":"count-k-th-roots-in-a-range"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3933,"title":"Largest Local Values in a Matrix II","titleSlug":"largest-local-values-in-a-matrix-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3934,"title":"Smallest Unique Subarray","titleSlug":"smallest-unique-subarray"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3935,"title":"Power Update After K-th Largest Insertion I","titleSlug":"power-update-after-k-th-largest-insertion-i"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3936,"title":"Minimum Swaps to Move Zeros to End","titleSlug":"minimum-swaps-to-move-zeros-to-end"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3937,"title":"Minimum Operations to Make Array Modulo Alternating I","titleSlug":"minimum-operations-to-make-array-modulo-alternating-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3938,"title":"Maximum Path Intersection Sum in a Grid","titleSlug":"maximum-path-intersection-sum-in-a-grid"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3939,"title":"Count Non Adjacent Subsets in a Rooted Tree","titleSlug":"count-non-adjacent-subsets-in-a-rooted-tree"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3940,"title":"Limit Occurrences in Sorted Array","titleSlug":"limit-occurrences-in-sorted-array"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3941,"title":"Password Strength","titleSlug":"password-strength"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3942,"title":"Minimum Operations to Sort a Permutation","titleSlug":"minimum-operations-to-sort-a-permutation"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3943,"title":"Number of Pairs After Increment","titleSlug":"number-of-pairs-after-increment"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3944,"title":"Minimum Operations to Make Array Modulo Alternating II","titleSlug":"minimum-operations-to-make-array-modulo-alternating-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3945,"title":"Digit Frequency Score","titleSlug":"digit-frequency-score"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3946,"title":"Maximum Number of Items From Sale I","titleSlug":"maximum-number-of-items-from-sale-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3947,"title":"Maximum Number of Items From Sale II","titleSlug":"maximum-number-of-items-from-sale-ii"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3948,"title":"Lexicographically Maximum MEX Array","titleSlug":"lexicographically-maximum-mex-array"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3949,"title":"Subtree Inversion Sum II","titleSlug":"subtree-inversion-sum-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3950,"title":"Exactly One Consecutive Set Bits Pair","titleSlug":"exactly-one-consecutive-set-bits-pair"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3951,"title":"Minimum Energy to Maintain Brightness","titleSlug":"minimum-energy-to-maintain-brightness"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3952,"title":"Maximum Total Value of Covered Indices","titleSlug":"maximum-total-value-of-covered-indices"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3953,"title":"Maximum Score with Co-Prime Element","titleSlug":"maximum-score-with-co-prime-element"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3954,"title":"Sum of Compatible Numbers in Range I","titleSlug":"sum-of-compatible-numbers-in-range-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3955,"title":"Valid Binary Strings With Cost Limit","titleSlug":"valid-binary-strings-with-cost-limit"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3956,"title":"Maximum Sum of M Non-Overlapping Subarrays I","titleSlug":"maximum-sum-of-m-non-overlapping-subarrays-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3957,"title":"Maximum Sum of M Non-Overlapping Subarrays II","titleSlug":"maximum-sum-of-m-non-overlapping-subarrays-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3958,"title":"Minimum Cost to Split into Ones II","titleSlug":"minimum-cost-to-split-into-ones-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3959,"title":"Check Good Integer","titleSlug":"check-good-integer"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3960,"title":"Frequency Balance Subarray","titleSlug":"frequency-balance-subarray"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3961,"title":"Maximize Sum of Device Ratings","titleSlug":"maximize-sum-of-device-ratings"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3962,"title":"Maximum Subarray Sum After at Most K Swaps","titleSlug":"maximum-subarray-sum-after-at-most-k-swaps"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3963,"title":"Create Grid With Exactly One Path","titleSlug":"create-grid-with-exactly-one-path"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3964,"title":"Minimum Lights to Illuminate a Road","titleSlug":"minimum-lights-to-illuminate-a-road"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3965,"title":"Finish Time of Tasks I","titleSlug":"finish-time-of-tasks-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3966,"title":"Count Good Integers in a Range","titleSlug":"count-good-integers-in-a-range"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3967,"title":"Finish Time of Tasks II","titleSlug":"finish-time-of-tasks-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3968,"title":"Maximum Manhattan Distance After All Moves","titleSlug":"maximum-manhattan-distance-after-all-moves"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3969,"title":"Valid Subarrays With Matching Sum Digits I","titleSlug":"valid-subarrays-with-matching-sum-digits-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3970,"title":"Shortest Path With At Most K Consecutive Identical Characters","titleSlug":"shortest-path-with-at-most-k-consecutive-identical-characters"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3971,"title":"Maximum Total Value","titleSlug":"maximum-total-value"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3972,"title":"Valid Subarrays With Matching Sum Digits II","titleSlug":"valid-subarrays-with-matching-sum-digits-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3973,"title":"Distinct Gate Paths to LCA","titleSlug":"distinct-gate-paths-to-lca"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3974,"title":"Maximum Total Sum of K Selected Elements","titleSlug":"maximum-total-sum-of-k-selected-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3975,"title":"Filter Occupied Intervals","titleSlug":"filter-occupied-intervals"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3976,"title":"Maximum Subarray Sum After Multiplier","titleSlug":"maximum-subarray-sum-after-multiplier"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3977,"title":"Minimum Time to Reach Target With Limited Power","titleSlug":"minimum-time-to-reach-target-with-limited-power"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3978,"title":"Unique Middle Element","titleSlug":"unique-middle-element"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3979,"title":"Maximum Valid Pair Sum","titleSlug":"maximum-valid-pair-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3980,"title":"Minimum Operations to Transform Binary String","titleSlug":"minimum-operations-to-transform-binary-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3981,"title":"Count Distinct Ways to Form Target from Two Strings","titleSlug":"count-distinct-ways-to-form-target-from-two-strings"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3982,"title":"Sum of Integers with Maximum Digit Range","titleSlug":"sum-of-integers-with-maximum-digit-range"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3983,"title":"Subsequence After One Replacement","titleSlug":"subsequence-after-one-replacement"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3984,"title":"Divisible Game","titleSlug":"divisible-game"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3985,"title":"Palindromic Subarray Sum","titleSlug":"palindromic-subarray-sum"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3986,"title":"Number of Elapsed Seconds Between Two Times","titleSlug":"number-of-elapsed-seconds-between-two-times"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3987,"title":"Minimum Total Cost to Process All Elements","titleSlug":"minimum-total-cost-to-process-all-elements"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3988,"title":"Create Grid With Exactly K Paths I","titleSlug":"create-grid-with-exactly-k-paths-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3989,"title":"Maximum Consistent Columns in a Grid","titleSlug":"maximum-consistent-columns-in-a-grid"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":3990,"title":"Create Grid With Exactly K Paths II","titleSlug":"create-grid-with-exactly-k-paths-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":3991,"title":"Sort Array Using Prefix Reversals","titleSlug":"sort-array-using-prefix-reversals"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3992,"title":"Rearrange String to Avoid Character Pair","titleSlug":"rearrange-string-to-avoid-character-pair"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3993,"title":"Maximum Value of an Alternating Sequence","titleSlug":"maximum-value-of-an-alternating-sequence"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3994,"title":"Minimum Adjacent Swaps to Partition Array","titleSlug":"minimum-adjacent-swaps-to-partition-array"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3995,"title":"Minimum Cost to Convert String III","titleSlug":"minimum-cost-to-convert-string-iii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":3996,"title":"Even Number of Knight Moves","titleSlug":"even-number-of-knight-moves"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3997,"title":"Count Dominant Nodes in a Binary Tree","titleSlug":"count-dominant-nodes-in-a-binary-tree"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":3998,"title":"Transform Binary String Using Subsequence Sort","titleSlug":"transform-binary-string-using-subsequence-sort"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":3999,"title":"Minimum Number of String Groups Through Transformations","titleSlug":"minimum-number-of-string-groups-through-transformations"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4000,"title":"Largest Integer With Given Digit Sum","titleSlug":"largest-integer-with-given-digit-sum"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4001,"title":"Aggregate Two Time Series","titleSlug":"aggregate-two-time-series"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4002,"title":"Count Valid Sequences","titleSlug":"count-valid-sequences"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4003,"title":"Minimum Cost Path with Alternating Directions III","titleSlug":"minimum-cost-path-with-alternating-directions-iii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4004,"title":"Minimum Moves to Balance Circular Array II","titleSlug":"minimum-moves-to-balance-circular-array-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4005,"title":"Minimum Operations to Make Array Equal III","titleSlug":"minimum-operations-to-make-array-equal-iii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4006,"title":"Count Valid Prefixes","titleSlug":"count-valid-prefixes"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4007,"title":"Widest Possible Fence","titleSlug":"widest-possible-fence"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4008,"title":"Minimum Initial Strength to Defeat All Monsters","titleSlug":"minimum-initial-strength-to-defeat-all-monsters"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4009,"title":"Minimum Possible Maximum Waiting Time","titleSlug":"minimum-possible-maximum-waiting-time"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4010,"title":"Maximize Pair Strength Using GCD","titleSlug":"maximize-pair-strength-using-gcd"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4011,"title":"Count Subarrays With Even Odd Ratio I","titleSlug":"count-subarrays-with-even-odd-ratio-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4012,"title":"Count of Unfinished Tasks After Each Shift","titleSlug":"count-of-unfinished-tasks-after-each-shift"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4013,"title":"Count Subarrays With Even Odd Ratio II","titleSlug":"count-subarrays-with-even-odd-ratio-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4014,"title":"Minimum Total Price After Applying Discounts","titleSlug":"minimum-total-price-after-applying-discounts"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4015,"title":"Weighted Sum of a Tree","titleSlug":"weighted-sum-of-a-tree"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4016,"title":"Maximum Area of Two Non-Overlapping Square Submatrices","titleSlug":"maximum-area-of-two-non-overlapping-square-submatrices"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4017,"title":"Peaks in Array II","titleSlug":"peaks-in-array-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4018,"title":"Total Sum of Interaction Cost in Tree Groups II","titleSlug":"total-sum-of-interaction-cost-in-tree-groups-ii"}
+{"difficulty":"Medium","isPaidOnly":true,"questionFrontendId":4019,"title":"Merge Close Characters II","titleSlug":"merge-close-characters-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4020,"title":"Elevator Requests I","titleSlug":"elevator-requests-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4021,"title":"Minimum Operations to Make a Rotated Palindrome I","titleSlug":"minimum-operations-to-make-a-rotated-palindrome-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4022,"title":"K-th Digit in Infinite String","titleSlug":"k-th-digit-in-infinite-string"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4023,"title":"Elevator Requests II","titleSlug":"elevator-requests-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4024,"title":"Nearest Available Drone","titleSlug":"nearest-available-drone"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4025,"title":"Minimize the Maximum Waiting Time at Synchronized Traffic Lights","titleSlug":"minimize-the-maximum-waiting-time-at-synchronized-traffic-lights"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4026,"title":"Maximum Gap Between Stations","titleSlug":"maximum-gap-between-stations"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4027,"title":"Elevator Requests III","titleSlug":"elevator-requests-iii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4028,"title":"Minimum Operations to Make a Rotated Palindrome II","titleSlug":"minimum-operations-to-make-a-rotated-palindrome-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4029,"title":"Elevator Requests IV","titleSlug":"elevator-requests-iv"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4030,"title":"Check ASCII Palindromic","titleSlug":"check-ascii-palindromic"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4031,"title":"Find All Numbers Disappeared in an Array II","titleSlug":"find-all-numbers-disappeared-in-an-array-ii"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4032,"title":"Longest Subarray With at Most K Distinct Prime Factors","titleSlug":"longest-subarray-with-at-most-k-distinct-prime-factors"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4033,"title":"Valid K-Unique Subarrays I","titleSlug":"valid-k-unique-subarrays-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4034,"title":"Minimum Bishop Moves to Reach Target","titleSlug":"minimum-bishop-moves-to-reach-target"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4035,"title":"Maximum Valid Split Positions I","titleSlug":"maximum-valid-split-positions-i"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4036,"title":"Lexicographically Largest String After Pair Transformations","titleSlug":"lexicographically-largest-string-after-pair-transformations"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4037,"title":"Maximum Valid Split Positions II","titleSlug":"maximum-valid-split-positions-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4038,"title":"Count Integers Appearing in a Single Block","titleSlug":"count-integers-appearing-in-a-single-block"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4039,"title":"Sum of Decoded Numbers","titleSlug":"sum-of-decoded-numbers"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4040,"title":"Minimum Operations to Form Subset Sum I","titleSlug":"minimum-operations-to-form-subset-sum-i"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4041,"title":"Minimum Operations to Form Subset Sum II","titleSlug":"minimum-operations-to-form-subset-sum-ii"}
+{"difficulty":"Hard","isPaidOnly":true,"questionFrontendId":4042,"title":"Valid K-Unique Subarrays II","titleSlug":"valid-k-unique-subarrays-ii"}
+{"difficulty":"Easy","isPaidOnly":false,"questionFrontendId":4043,"title":"Count Rotations With Exactly K Equal Adjacent Pairs","titleSlug":"count-rotations-with-exactly-k-equal-adjacent-pairs"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4044,"title":"Count Good Cyclic Rotations","titleSlug":"count-good-cyclic-rotations"}
+{"difficulty":"Medium","isPaidOnly":false,"questionFrontendId":4045,"title":"Count Robot Groups","titleSlug":"count-robot-groups"}
+{"difficulty":"Hard","isPaidOnly":false,"questionFrontendId":4046,"title":"Minimum Cost Path With At Most K Turns","titleSlug":"minimum-cost-path-with-at-most-k-turns"}
